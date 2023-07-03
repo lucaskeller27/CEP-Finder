@@ -1,0 +1,13 @@
+.fundo {
+    text-align: center;
+}
+
+#cod {
+    width: 118px;
+}
+
+input {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
